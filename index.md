@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Helllo and Welcome!
+
+I am a computer science Ph.D. student at Brown University, advised by [Stefanie Tellex](https://h2r.cs.brown.edu/)
+
+I am interested in building embodied intelligent agents that can perform lone-horizon tasks in various environments provided with sparse reward signals. To that end, I would like to leverage structures in natural language and perception to help robots plan and learn correctly and efficiently.
 
 You can use the [editor on GitHub](https://github.com/jasonxyliu/jasonxyliu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
