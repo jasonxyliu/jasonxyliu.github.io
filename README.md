@@ -1,3 +1,5 @@
+This is the repository that contains source code for the [personal website](https://jasonxyliu.github.io/)).
+
 # Minimal Theme
 
 [Demo the Theme](http://orderedlist.github.com/minimal/)
