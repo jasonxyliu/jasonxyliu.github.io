@@ -1,4 +1,4 @@
-This is the repository that contains source code for the [personal website](https://jasonxyliu.github.io/)).
+This is the repository that contains source code for the [personal website](https://jasonxyliu.github.io/).
 
 # Minimal Theme
 
